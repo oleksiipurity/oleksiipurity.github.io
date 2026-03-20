@@ -25,6 +25,7 @@
 
 .u-section-1 .u-text-1 {
   font-size: 1.5rem;
+  font-family: Montserrat, sans-serif;
   margin: -370px 20px 60px 600px;
 }
 
@@ -38,7 +39,6 @@
   }
 
   .u-section-1 .u-text-1 {
-    font-family: Montserrat, sans-serif;
     margin-top: -378px;
     margin-right: 147px;
     margin-left: 420px;
@@ -111,14 +111,9 @@
 .u-section-2 .u-text-1 {
   font-size: 1.875rem;
   width: 831px;
+  font-weight: 400;
+  font-family: Montserrat, sans-serif;
   margin: 35px auto;
-}
-
-@media (max-width: 1199px) {
-  .u-section-2 .u-text-1 {
-    font-weight: 400;
-    font-family: Montserrat, sans-serif;
-  }
 }
 
 @media (max-width: 991px) {
@@ -164,6 +159,7 @@
 
 .u-section-3 .u-text-1 {
   font-size: 1.25rem;
+  font-family: Montserrat, sans-serif;
   margin: -370px 0 60px 620px;
 }
 
@@ -181,7 +177,6 @@
   }
 
   .u-section-3 .u-text-1 {
-    font-family: Montserrat, sans-serif;
     margin-top: 20px;
     margin-right: 147px;
     margin-left: 420px;
@@ -258,6 +253,7 @@
 
 .u-section-4 .u-text-1 {
   font-size: 1.25rem;
+  font-family: Montserrat, sans-serif;
   margin: -370px 0 60px 620px;
 }
 
@@ -275,7 +271,6 @@
   }
 
   .u-section-4 .u-text-1 {
-    font-family: Montserrat, sans-serif;
     margin-top: 20px;
     margin-right: 147px;
     margin-left: 420px;
@@ -352,6 +347,7 @@
 
 .u-section-5 .u-text-1 {
   font-size: 1.25rem;
+  font-family: Montserrat, sans-serif;
   margin: -370px 0 60px 620px;
 }
 
@@ -369,7 +365,6 @@
   }
 
   .u-section-5 .u-text-1 {
-    font-family: Montserrat, sans-serif;
     margin-top: 20px;
     margin-right: 147px;
     margin-left: 420px;
@@ -446,6 +441,7 @@
 
 .u-section-6 .u-text-1 {
   font-size: 1.25rem;
+  font-family: Montserrat, sans-serif;
   margin: -370px 0 60px 620px;
 }
 
@@ -463,7 +459,6 @@
   }
 
   .u-section-6 .u-text-1 {
-    font-family: Montserrat, sans-serif;
     margin-top: 20px;
     margin-right: 147px;
     margin-left: 420px;
