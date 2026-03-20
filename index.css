@@ -36,17 +36,14 @@
 }
 
 .u-section-1 .u-text-1 {
-  font-family: "Cairo Play";
   margin: 0 1px;
 }
 
 .u-section-1 .u-text-2 {
-  font-family: "Cairo Play";
   margin: 49px 1px 0;
 }
 
 .u-section-1 .u-text-3 {
-  font-family: "Cairo Play";
   margin: 37px 1px 0;
 }
 
@@ -93,16 +90,19 @@
   }
 
   .u-section-1 .u-text-1 {
+    font-family: Montserrat, sans-serif;
     margin-left: 0;
     margin-right: 0;
   }
 
   .u-section-1 .u-text-2 {
+    font-family: Montserrat, sans-serif;
     margin-left: 0;
     margin-right: 0;
   }
 
   .u-section-1 .u-text-3 {
+    font-family: Montserrat, sans-serif;
     margin-left: 0;
     margin-right: 0;
   }
